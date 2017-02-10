@@ -4,6 +4,7 @@ JUDUL : LIST
 <br>
 ### B.(Screenshoot)
 ![Screenshoot 1] (https://s28.postimg.org/vunwyilq5/Screenshot_2016_11_16_01_44_00.png)<br>
+![Screenshot 1](https://github.com/FitriaMelaAgnes/RecyclerView1/blob/master/1.PNG)
 <br>
 ### C.(Data Diri)
 - Nama    : ERMA ROHMAWATI
